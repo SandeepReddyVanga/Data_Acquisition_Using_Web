@@ -20,6 +20,7 @@ In this project we look at restaurants (local services) and concerts (local even
 We also created a shiny app to visualize the restaurant dynamics through out the week.
 https://travelworldspunky.shinyapps.io/restaurants-app/
 
+[![Shiny App](https://github.com/SandeepReddyVanga/TravelWorldSpunky/blob/master/restaurants-app/Screenshot_shiny_app_Feb1.png)](#features)
 
 Methods of data acquisition include extracting information from RESTful services and web-scraping; methods of analysis include visualizing geographical locations of venues on Google Map and implementing a preliminary algorithm of venue recommendation based on the optimization of distance and price. Up until this moment, information of over 400 restaurants and a handful of concert venues in San Francisco has been collected and stored.
 
