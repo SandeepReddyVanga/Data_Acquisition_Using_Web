@@ -17,6 +17,9 @@ the best price and minimum distance combination.
 
 In this project we look at restaurants (local services) and concerts (local events) only. But it is easily scalable for different types of local services, local events and other travel destinations.
 
+We also created a shiny app to visualize the restaurant dynamics through out the week.
+https://travelworldspunky.shinyapps.io/restaurants-app/
+
 
 Methods of data acquisition include extracting information from RESTful services and web-scraping; methods of analysis include visualizing geographical locations of venues on Google Map and implementing a preliminary algorithm of venue recommendation based on the optimization of distance and price. Up until this moment, information of over 400 restaurants and a handful of concert venues in San Francisco has been collected and stored.
 
